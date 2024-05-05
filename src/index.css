@@ -1,0 +1,14 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    background-color: white;
+
+}
+
+.nav-logo{
+    width: 120px;
+    height: auto;
+}
